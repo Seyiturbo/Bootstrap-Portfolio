@@ -44,11 +44,12 @@ md
     
 ## Credits
 
-I read the following articles to help me complete this challenge: 
+I read and revamped some of the following articles and ideas below to help me complete this challenge: 
 
 [Read Me Guide](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)
 [Bootstrap list](https://getbootstrap.com/docs/5.3/components/list-group/#links-and-buttons)
 [Bootstrap navbar](https://getbootstrap.com/docs/5.3/components/navbar/)
+ [Usage with javascript framework](https://getbootstrap.com/docs/5.3/getting-started/javascript/#individual-or-compiled)
 [Html links](https://www.w3schools.com/html/html_links.asp)
 [-hover-](https://www.w3schools.com/html/html_links.asp)
 [Ideas](https://github.com/explore)

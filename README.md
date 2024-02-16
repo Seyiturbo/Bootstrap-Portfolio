@@ -25,13 +25,18 @@ In the "Contact links" section, i am yet to hyperlink to my Instagram, Linkedn, 
 Finally, i am yet to style the logo icon to fit into the navbar.
 
 md
-    ![Screenshot 1](./images/Screenshot%201a.png)
+    ![Screenshot 1](./images/screenshot%201%20bootstrap.png)
 
 md   
-    ![Screenshot 2](./images/Screenshot%202a.png)
+    ![Screenshot 2](./images/screenshot%202%20bootstrap.png)
     
 md   
-    ![Screenshot 2](./images/Screenshot%203a.png)
+    ![Screenshot 3](./images/screenshot%203%20bootstrap.png)
+
+md       
+    ![Screenshot 4](./images/screenshot%204%20bootstrap.png)
+    
+    
     
 
 
